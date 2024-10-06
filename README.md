@@ -87,6 +87,7 @@ The findings underscored the importance of using regression techniques for datas
 
 # Graphical Visualiations
 
+![Line Plot](fig1.png)
 
 
 # Future Scope
