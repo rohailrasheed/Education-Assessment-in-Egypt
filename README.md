@@ -10,4 +10,8 @@ To start the project, you need to use Google Colab, where the public dataset wil
 
 Now, we are performing analysis by using the education dataset for Egypt. 
 
-[Access to Dataset](https://www.kaggle.com/datasets/mohamedalabasy/education-in-egypt)
+[See Dataset](https://www.kaggle.com/datasets/mohamedalabasy/education-in-egypt)
+
+# Installation
+
+To run this project, you'll need to install several Python libraries. You can easily install them using `pip`. Below are the required libraries and their installation commands:
