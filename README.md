@@ -85,6 +85,15 @@ The performance of each model was assessed using metrics such as accuracy for cl
 **5. Conclusion & Recommendations:**
 The findings underscored the importance of using regression techniques for datasets that exhibit continuous target variables, suggesting future exploration of more advanced regression models.
 
+custom-text-src
+
+# Graphical Visualiations
+
+![Correlation Matrix](fig1.png)
+
+![Histogram](fig2.png)
+
+main
 # Future Scope
 
 The future scope of this project encompasses several avenues for further research and application. First, integrating more diverse datasets, such as socioeconomic status, extracurricular involvement, and mental health indicators, could provide a more holistic understanding of student performance. Additionally, exploring advanced machine learning techniques, such as ensemble methods or neural networks, could enhance predictive accuracy and robustness.
