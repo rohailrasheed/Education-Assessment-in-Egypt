@@ -28,3 +28,31 @@ pip install numpy
 ```bash
 pip install matplotlib
 ```
+4. **Seaborn:** A statistical data visualization library based on Matplotlib.
+```bash
+pip install seaborn
+```
+5. **Scikit-learn:** A library for machine learning that includes tools for model fitting, data preprocessing, and evaluation.
+```bash
+pip install scikit-learn
+```
+6. **SciPy:** A library used for scientific and technical computing, providing additional functionality for optimization, integration, and statistics.
+```bash
+pip install scipy
+```
+7. **XGBoost:** An optimized gradient boosting library designed to be efficient, flexible, and portable.
+```bash
+pip install xgboost
+```
+After running these commands, you should have all the necessary libraries installed to work with the project.
+
+#Additional Note:
+Make sure you have Python and pip installed on your machine. You can check your Python version by running:
+```bash
+python --version
+```
+And check pip version with:
+```bash
+pip --version
+```
+If you encounter any issues during the installation, please refer to the documentation for each library or feel free to open an issue in this repository.
