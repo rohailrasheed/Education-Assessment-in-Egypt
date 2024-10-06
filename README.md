@@ -87,13 +87,9 @@ The findings underscored the importance of using regression techniques for datas
 
 # Graphical Visualiations
 
-![Correlation Matrix](fig4.png)
+![Correlation Matrix](fig1.png)
 
 ![Histogram](fig2.png)
-
-![Heatmap](fig3.png)
-
-![Correlation Matrix](fig1.png)
 
 # Future Scope
 
