@@ -93,7 +93,7 @@ The findings underscored the importance of using regression techniques for datas
 
 ![Heatmap](fig3.png)
 
-![Correlation Matrix](fig4.png)
+![Correlation Matrix](fig1.png)
 
 # Future Scope
 
