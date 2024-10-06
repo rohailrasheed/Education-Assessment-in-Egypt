@@ -15,3 +15,16 @@ Now, we are performing analysis by using the education dataset for Egypt.
 # Installation
 
 To run this project, you'll need to install several Python libraries. You can easily install them using `pip`. Below are the required libraries and their installation commands:
+
+1. **Pandas:** A powerful data manipulation and analysis library.
+```bash
+pip install pandas
+```
+2. **NumPy:** A library for numerical computations in Python.
+```bash
+pip install numpy
+```
+3. **Matplotlib:** A plotting library for creating static, animated, and interactive visualizations.
+```bash
+pip install matplotlib
+```
