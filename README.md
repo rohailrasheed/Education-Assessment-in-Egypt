@@ -46,7 +46,7 @@ pip install xgboost
 ```
 After running these commands, you should have all the necessary libraries installed to work with the project.
 
-#Additional Note:
+# Additional Note:
 Make sure you have Python and pip installed on your machine. You can check your Python version by running:
 ```bash
 python --version
